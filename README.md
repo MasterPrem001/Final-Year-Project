@@ -213,19 +213,6 @@ cast receipt <txhash>
 
 ---
 
-## Prompt/Specification Used
-
-This repository was developed from a detailed build specification for **AI-DON (AI-Powered Decentralized Oracle Network)** covering:
-
-- end-to-end architecture (scraper → nodes → AI → consensus → blockchain)
-- required file/folder structure
-- Foundry deployment/testing workflow
-- backend API behavior
-- frontend dashboard components
-- federated learning simulation behavior
-
----
-
 ## Security Notes
 
 - Never commit real private keys or production RPC secrets.
